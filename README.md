@@ -8,7 +8,7 @@
 [cpython](https://github.com/python/cpython) etc..
 - 🌟 I'm now a python contributor (@python) -
 [details](https://github.com/python/cpython/commits/main/?author=F18-Maverick)
-- 📧 You can contact me at my email: xu_ruihong2009@163.com
+- 📧 You can contact me at my email: RayXu2333@outlook.com
 - 📻 If you speak chinese, you can contact me at 
 [my Bilibili space](https://space.bilibili.com/3546687408704081)
 
