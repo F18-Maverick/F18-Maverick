@@ -12,7 +12,7 @@
 - 📻 If you speak chinese, you can contact me at 
 [my Bilibili space](https://space.bilibili.com/3546687408704081)
 
-[![F18-Maverick's GitHub stats](https://github-readme-stats-f18.vercel.app/api?username=F18-Maverick&show_icons=true&theme=radical&show=prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+[![F18-Maverick's GitHub stats](https://github-readme-stats.vercel.app/api?username=F18-Maverick&show_icons=true&theme=radical&show=prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
 (提醒： 我不是二次元💀)
 
